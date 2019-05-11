@@ -1,0 +1,14 @@
+Log In Page:
+As a developer I would like to create a log-in page which has the following functionality:
+-Asks user for username
+-Asks user for password
+-User should be given a hint incase they forget their password
+
+As a developer I would like to have the following functionalities in the log-in page:
+-Lock-out if too many failed atempts were made
+-Provide security question for password recovery/change
+
+As a developer I would like the app to have the following:
+-A data-base of all transactions
+-Ability for users to keep track of their loans and debts
+
